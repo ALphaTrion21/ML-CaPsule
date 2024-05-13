@@ -1,11 +1,14 @@
-# Gym Trainer Opencv
+# Gym Trainer App
 
-Major libraries
+This project utilizes computer vision to create a Gym Trainer application that monitors exercise movements in real-time using a webcam or a video file. It detects the user's body pose and tracks specific exercises, providing feedback on form and counting repetitions.
 
-1) Opencv
-2) Mediapipe
-3) Math
+## Requirements
 
-Demo: 
-https://user-images.githubusercontent.com/55491822/120444954-c65dfa80-c3a5-11eb-81cd-e3e79f0fde8f.mp4
+- Python 3.x
+- OpenCV
+- NumPy
+- Mediapipe
 
+## Installation
+
+1. Clone the repository:
